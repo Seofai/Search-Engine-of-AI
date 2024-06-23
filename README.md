@@ -12,7 +12,7 @@ SEOFAI is a desktop application that provides easy access to our AI-powered SEO 
 
 ### Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/your-repo-name/releases) page.
+1. Download the latest release from the [Releases](https://github.com/seofai/Search-Engine-of-AI/releases) page.
 2. Run the installer and follow the on-screen instructions.
 3. Once installed, launch the SEOFAI application from your desktop or start menu.
 
@@ -30,7 +30,7 @@ SEOFAI is a desktop application that provides easy access to our AI-powered SEO 
 
 ### Known Issues
 
-None at this time. If you encounter any problems, please [open an issue](https://github.com/yourusername/your-repo-name/issues) on this repository.
+None at this time. If you encounter any problems, please [open an issue](https://github.com/seofai/Search-Engine-of-AI/issues) on this repository.
 
 ### Support
 
